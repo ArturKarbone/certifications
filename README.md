@@ -3,7 +3,7 @@
 
 ## Microsoft
 
-General recomendations: https://m.youtube.com/watch?v=d59nAwmdoLk
+General recommendations: https://m.youtube.com/watch?v=d59nAwmdoLk
 
 Microsoft Credentials: Applied Skills + Certifications https://learn.microsoft.com/en-us/credentials/
 
